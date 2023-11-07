@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#register:hover{
+    border: 3px solid aqua;
+    color:aliceblue;
+    font-size: 17px;
+    background-color: deepskyblue;
+}
+.container{
+     width:1500px;
+    height:400px; 
+    text-align:center;
+    /* color:azure;*/
+    /* /background-color:lime;  */
+    margin-left: 37.5%;
+    padding:4px;
+    /* margin-top: 5%; */
+    margin-bottom: 5%;
+}
